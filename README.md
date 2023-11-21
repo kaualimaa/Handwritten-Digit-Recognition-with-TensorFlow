@@ -23,7 +23,9 @@ Front-end of the project: [Here](https://github.com/kauasdev/Handwritten-Digit-R
     model = tf.keras.models.load_model('model.h5')
 #### Rebuild and retrain the model
     python3 model.py
-https://github.com/kauasdev/Handwritten-Digit-Recognition-with-CNN-Front-
+
+## Front-end
+Go to the project's front end: [here](https://github.com/kauasdev/Handwritten-Digit-Recognition-with-CNN-Front-)
 ## Examples
 ![The model predicted the number six(6)](assets/predict_six.png)
 <br><br>
